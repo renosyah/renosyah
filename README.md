@@ -1,7 +1,7 @@
 ## Hi there, I'm Reno Syahputra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 **Personal Stuffs:**
-- 🔭 I’m currently working on my campus project
+- 🔭 I’m currently working on private and company project
 - 🌱 I’m currently learning Android kotlin, Vue.js & Golang
 - ✨ Interested in mobile & web
 - 📫 Reach me via [linkedin](https://www.linkedin.com/in/reno-syahputra-839840142/) or [facebook](https://www.facebook.com/renosyah975/)
