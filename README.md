@@ -15,6 +15,13 @@
 <br/>
 <br/>
 
+<a>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=renosyah&row=2&column=3" />
+</a>
+
+<br/>
+<br/>
+
 **Personal Stuffs:**
 - 🔭 I’m currently working on private and company project
 - 🌱 I’m currently learning Android kotlin, Vue.js & Golang
