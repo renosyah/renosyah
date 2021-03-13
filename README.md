@@ -2,21 +2,21 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renosyah&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renosyah&show_icons=true" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renosyah&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renosyah" />
 </a>
 
 <br/>
 <br/>
 
 <a>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=renosyah&row=2&column=3&theme=onedark" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=renosyah&row=2&column=3" />
 </a>
 
 <br/>
