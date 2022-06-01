@@ -1,4 +1,4 @@
-## Hi there, I'm Reno Syahputra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="15" height="15">
+## Hi there, I'm Reno Syahputra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="50" height="50">
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
