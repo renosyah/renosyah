@@ -1,8 +1,8 @@
-## Hi there, I'm Reno Syahputra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there, I'm Reno Syahputra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="15" height="15">
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="15" height="15" src="https://github-readme-stats.vercel.app/api?username=renosyah&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renosyah&show_icons=true" />
 </a>
 
 <br/>
