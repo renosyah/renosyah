@@ -26,7 +26,6 @@
 - 🔭 I’m currently working on private and company project
 - 🌱 I’m currently learning Android kotlin, Vue.js & Golang
 - ✨ Interested in mobile & web
-- 📫 Reach me via [linkedin](https://www.linkedin.com/in/reno-syahputra-839840142/) or [facebook](https://www.facebook.com/renosyah975/)
 
 <!--
 **renosyah/renosyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
